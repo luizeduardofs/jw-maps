@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: minha-api-bun
+    name: jw.org
     runtime: docker
     plan: free
     region: oregon

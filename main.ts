@@ -70,4 +70,4 @@ app.get("/ui/T/meeting-search.html", (req, res) => {
 
 app.listen(3000);
 
-// #/?w=3A2C9D57-84E6-4DB5-B9AF-1F6D02E9C3B4
+// https://minha-api-bun.onrender.com/ui/T/meeting-search.html#/?w=3A2C9D57-84E6-4DB5-B9AF-1F6D02E9C3B4
